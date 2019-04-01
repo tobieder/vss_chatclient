@@ -1,5 +1,7 @@
 package VSS_uebung02_a2;
 
+// This is a test to show the github push feature.
+
 import java.awt.*;
 import javax.swing.*;
 
